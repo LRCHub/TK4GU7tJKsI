@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エリザベス",
+  "base_artist": "Moroha",
+  "createdAt": "2026-02-15T07:45:53.455469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エリザベス",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_エリザベス_MOROHA.txt"
+    }
+  ]
+}
